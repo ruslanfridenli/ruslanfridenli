@@ -1,4 +1,4 @@
-### only the paranoids survive.
+### only paranoids survive.
 
 > [!NOTE]
 > i hate chess
