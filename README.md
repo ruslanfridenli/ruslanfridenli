@@ -1,6 +1,6 @@
 ### only paranoids survive.
 
-> [!NOTE]
+> [!WARNING]
 > i hate chess.  
 > <sub>— reykjavik '72 / 960</sub>
 
